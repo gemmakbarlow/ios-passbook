@@ -1,0 +1,57 @@
+{
+    "formatVersion": 1,
+    "passTypeIdentifier": "pass.com.gemmakbarlow.couponfreehugs",
+    "serialNumber": "001",
+    "teamIdentifier": "93DW7Y5G9U",
+    "organizationName": "Gem* Productions LLC",
+    "description": "Coupon for Unlimited Free Hugs",
+    "logoText": "Gem* Productions LLC",
+    "backgroundColor": "rgb(45, 54, 129)",
+    "barcode": {
+        "message": "All you need is love",
+        "format": "PKBarcodeFormatPDF417",
+        "messageEncoding": "iso-8859-1"
+    },
+    "coupon": {
+        "primaryFields": [
+            {
+                "key": "offer",
+                "label": "for you",
+                "value": "An Offer"
+            }
+        ],
+        "secondaryFields": [
+            {
+                "key": "expires",
+                "label": "Valid for",
+                "value": "Lifetime"
+            }
+        ],
+        "auxiliaryFields": [
+            {
+                "key": "date",
+                "label": "Promo starts on",
+                "dateStyle": "PKDateStyleMedium",
+                "timeStyle": "PKDateStyleNone",
+                "value": "2013-03-09T00:00Z"
+            }
+        ],
+        "backFields": [
+            {
+                "key": "extras",
+                "label": "Extras",
+                "value": "This offer is valid only for Kent Humphries and entitles him to as many free hugs as desired."
+            },
+            {
+                "key": "phone",
+                "label": "For more info",
+                "value": "+1 415 612 0841"
+            },
+            {
+                "key": "terms",
+                "label": "TERMS AND CONDITIONS",
+                "value": "Free hugs last 18 seconds or length requested by coupon holder. No exchanges or refunds. Please present appropriate identification to redeem."
+            }
+        ]
+    }
+}
