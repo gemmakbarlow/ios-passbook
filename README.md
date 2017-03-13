@@ -1,6 +1,6 @@
 passbook
 ========
-'Free Hug Coupon' sample, based on tutorial provided at http://www.raywenderlich.com/20734/beginning-passbook-part-1
+'Free Hug Coupon' sample, based on tutorial provided at [raywenderlich.com](http://www.raywenderlich.com/20734/beginning-passbook-part-1)
 
 ## project screenshots
 
