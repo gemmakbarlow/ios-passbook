@@ -4,6 +4,6 @@ passbook
 
 ## project screenshots
 
-![](project screenshots/Passbook 0.PNG)
-![](project screenshots/Passbook 1.PNG)
-![](project screenshots/Passbook 2.PNG)
+![Passbook card displayed in wallet](project-screenshots/Passbook0.PNG)
+![Full passbook voucher - front](project-screenshots/Passbook1.PNG)
+![Full passbook voucher - back](project-screenshots/Passbook2.PNG)
